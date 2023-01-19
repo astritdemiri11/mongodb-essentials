@@ -1,0 +1,8 @@
+Server
+  MongoDB Community Server: https://www.mongodb.com/try/download/community
+  MongoDB Enterprise Server: https://www.mongodb.com/try/download/enterprise
+
+Tools
+  MongoDB Compass: https://www.mongodb.com/try/download/compass
+  MongoDB Shell: https://www.mongodb.com/try/download/shell
+  MongDB Database Tools: https://www.mongodb.com/try/download/database-tools
